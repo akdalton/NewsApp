@@ -1,8 +1,8 @@
-# NewsApp
+# News App
 Developed to read news in very personalise way. 
 
 ## Logo
-![screen](../master/app/src/main/res/drawable-hdpi/guardian.png)
+![screen](../master/app/src/main/res/drawable-mdpi/guardian.png)
 
 ## Pre-requisites
 * Android SDK v28
