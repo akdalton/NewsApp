@@ -15,8 +15,8 @@ To build this project, use "Import Project" in Android Studio.
 * Java SDK
 
 ## Versions
-* For the version 1.0, see the [CourtCounterApp](https://github.com/akdalton/NewsApp).
-* For the version 2.0, see the [ScoreKeeperApp](https://github.com/akdalton/NewsAppStage1).
+* For the version 1.0, see the [News App](https://github.com/akdalton/NewsApp).
+* For the version 2.0, see the [News App Stage 1](https://github.com/akdalton/NewsAppStage1).
 
 ## Author
 * **Ashish Kumar** - *Initial work* - [akdalton](https://github.com/akdalton).
